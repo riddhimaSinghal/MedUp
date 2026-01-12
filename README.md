@@ -20,14 +20,16 @@ The application provides a clean and intuitive dashboard that allows users to ma
 
 ---
 
-## Tech Stack
+##  Tech Stack
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Lucide Icons
+- Figma
 
 ---
+
 
 ## Getting Started
 
